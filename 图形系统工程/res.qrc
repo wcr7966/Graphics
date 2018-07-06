@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Color/red.png</file>
+        <file>Color/green.png</file>
+        <file>Color/black.png</file>
+        <file>Color/blue.png</file>
+        <file>Color/white.png</file>
+        <file>Shape/line.png</file>
+        <file>Shape/rect.png</file>
+        <file>picture/clear.png</file>
+        <file>picture/clip.png</file>
+        <file>picture/draw.png</file>
+        <file>picture/fill.png</file>
+        <file>picture/modify.png</file>
+        <file>picture/rotation.png</file>
+        <file>picture/scale.png</file>
+        <file>picture/select.png</file>
+        <file>picture/translation.png</file>
+        <file>picture/bezier.png</file>
+        <file>picture/bs.png</file>
+        <file>picture/circle.png</file>
+        <file>picture/cube.png</file>
+        <file>picture/polygon.png</file>
+        <file>picture/save.png</file>
+        <file>picture/oval.png</file>
+    </qresource>
+</RCC>
